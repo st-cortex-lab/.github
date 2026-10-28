@@ -1,5 +1,3 @@
-<img src="https://st-cortex-lab.github.io/assets/img/logo-512.png" alt="St CORTEX Lab logo" width="96" align="right">
-
 # St CORTEX Lab
 
 **Smart Cognitive Robot Dexterity Lab** · University of St Andrews
